@@ -247,6 +247,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SRCROOT)/Frameworks/**",
 					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/..",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../../../React/**",
@@ -270,6 +271,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SRCROOT)/Frameworks/**",
 					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/..",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../../../React/**",
